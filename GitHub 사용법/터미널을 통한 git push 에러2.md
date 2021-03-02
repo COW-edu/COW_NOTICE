@@ -4,7 +4,7 @@
 
 >error: src refspec master does not match any.
 >
->error: failed to push some refs to'https://github.com/HyunSBong/TIL.git'
+>error: failed to push some refs to'https://github.com/--본인깃허브이름--/TIL.git'
 
 ## 원인
 
