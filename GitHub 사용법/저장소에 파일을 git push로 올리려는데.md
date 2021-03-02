@@ -4,7 +4,7 @@
 
 >! [rejected]    main -> main (fetch first) 
 >
->error: failed to push some refs to'https://github.com/HyunSBong/TIL.git'
+>error: failed to push some refs to'https://github.com/~~~본인 깃허브이름~~/TIL.git'
 
 ## 원인
 
