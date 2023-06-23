@@ -1,1 +1,1 @@
-# Coin_Notice 📢
+# COW_Notice 📢
