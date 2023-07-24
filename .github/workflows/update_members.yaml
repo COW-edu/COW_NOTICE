@@ -3,6 +3,8 @@ name: Update members
 on:
   push:
     branches: [main]
+    paths:
+      - 'members.yaml'
 
   workflow_dispatch:
 
